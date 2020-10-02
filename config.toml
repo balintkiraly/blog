@@ -1,0 +1,4 @@
+baseURL = "http://blog.balintkiraly.com/"
+languageCode = "en-us"
+title = "blog.balintkiraly.com"
+theme = "tale-hugo"
