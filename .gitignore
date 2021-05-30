@@ -1,0 +1,11 @@
+/*
+!.gitignore
+!.gitmodules
+!archetypes/
+!content/
+!*.toml
+!static/
+!README.md
+
+content/*
+themes/*
